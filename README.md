@@ -4,4 +4,4 @@
 
 # Estrutura
 
-### Nessa estrutura são criados 3 clusters EKS (dev, hml e prod), cada um com 3 pods rodando, simulando um ambiente real do dia a dia de algumas empresas.
+### Nessa estrutura são criados 3 clusters EKS (dev, hml e prod), cada um com 3 pods rodando e seus respectivos deployments, simulando um ambiente real do dia a dia de algumas empresas.
